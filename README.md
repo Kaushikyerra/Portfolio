@@ -9,4 +9,4 @@ Check out my portfolio design on Figma: [View Portfolio Design](https://www.figm
 ## Projects
 ## Contact
 
-Feel free to reach out to me at [your-email@example.com](kaushikyerra11@gmail.com)
+Feel free to reach out to me at (kaushikyerra11@gmail.com)
